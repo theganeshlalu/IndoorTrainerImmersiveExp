@@ -1,0 +1,1 @@
+#This is to connect to a ANT+ PowerMeter or a ANT+ Smart Trainer and read the power data
